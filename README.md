@@ -1,4 +1,4 @@
-# Project
+![Screenshot project](https://github.com/user-attachments/assets/fca7ba5e-ebad-4523-aa3e-9ce64741ba49)# Project
 AUCA PL/SQL Triggers & Package Project
 
 Done by:
@@ -95,3 +95,4 @@ Bienvenu
 	•	Created dynamic SQL procedure
 	•	Generated screenshots (package, salary calc, dynamic updating)
 	•	Added comments on USER / CURRENT_USER and rights
+	
